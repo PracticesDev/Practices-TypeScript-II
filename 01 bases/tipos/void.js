@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    //las funciones void no regresan nada (undefined)
     function callBatman() {
         return;
     }

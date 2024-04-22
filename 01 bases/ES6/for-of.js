@@ -13,7 +13,7 @@
         arma: 'martillo'
     };
     const avengers = [ironman, thor, capitan];
-    for (const avenger of avengers) { // recorre todo el array of nombre del array y el averger en singular sera la posicion recorrida
+    for (const avenger of avengers) {
         console.log(avenger);
         console.log(avenger.name);
     }

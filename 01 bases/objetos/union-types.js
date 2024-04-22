@@ -11,7 +11,5 @@
     };
     console.log(typeof myCustomVariable);
     console.log(myCustomVariable);
-    //TAMBIEN SE PUEDE LLEGAR A TENER DIFERENTES TIPOS COMO SE OBSERVA EN ESTE CASO
-    // DE TIPO STRING , NUMBER Y TYPE(HEROE)
 })();
 //# sourceMappingURL=union-types.js.map

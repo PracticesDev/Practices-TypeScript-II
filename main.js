@@ -1,5 +1,17 @@
 "use strict";
 (() => {
+    class Avenger {
+        constructor(name, team, realName) {
+            this.name = name;
+            this.realName = realName;
+            this.team = team;
+        }
+    }
+    Avenger.avgAge = 35;
+    const atman = new Avenger('Atman', 'Capitan');
+    console.log(atman);
+})();
+(() => {
     const objetoPersona = {
         name: 'name1',
         activo: true,
