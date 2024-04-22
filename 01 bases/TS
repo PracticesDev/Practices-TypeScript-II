@@ -1,0 +1,9 @@
+//La configuracion original de TS se encuentra en el siguiente archivo y lo que se encuentra en la DOC
+    //tsconfig.json
+
+//Depurar TS
+
+    //configura el archivo tsconfig.json sourceMap true la funcion nos sirve para visualar errores TS
+
+//Transírtacion completa de codigo 
+    //"outFile": nameruta   
