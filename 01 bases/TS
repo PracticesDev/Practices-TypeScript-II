@@ -7,3 +7,8 @@
 
 //Transírtacion completa de codigo 
     //"outFile": nameruta   
+
+//namespace => puede tener lo que nosotros necesitamos se pude agrupar clases, funciones, metodos
+
+//Que son los genericos
+//puede recibir cualquier tipo de argumento
