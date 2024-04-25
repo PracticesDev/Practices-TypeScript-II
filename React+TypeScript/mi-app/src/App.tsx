@@ -1,6 +1,7 @@
 import { Counter } from "./components/Counter";
 import { Usuario } from './components/Usuario';
 import { Efecto } from './components/Efecto';
+import { ContadorReducer } from "./components/ContadorReducer";
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
       <Usuario/>
       <hr />
       <Efecto/>
+      <hr />
+      <ContadorReducer/>
     </>
   );
 }
